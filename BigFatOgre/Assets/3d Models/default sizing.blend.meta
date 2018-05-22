@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 76b4e25c0028afb4397ff3ef2a5c7f84
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gate_1
+    100004: gate_2
+    100006: house
+    100008: house_001
+    100010: house_002
+    100012: house_003
+    100014: house_004
+    100016: house_005
+    100018: house_006
+    100020: ogre
+    100022: tower_1
+    100024: tower_2
+    100026: v1
+    100028: v10
+    100030: v11
+    100032: v12
+    100034: v2
+    100036: v3
+    100038: v4
+    100040: v5
+    100042: v6
+    100044: v7
+    100046: v8
+    100048: v9
+    100050: villager
+    100052: wall
+    100054: well
+    400000: //RootNode
+    400002: gate_1
+    400004: gate_2
+    400006: house
+    400008: house_001
+    400010: house_002
+    400012: house_003
+    400014: house_004
+    400016: house_005
+    400018: house_006
+    400020: ogre
+    400022: tower_1
+    400024: tower_2
+    400026: v1
+    400028: v10
+    400030: v11
+    400032: v12
+    400034: v2
+    400036: v3
+    400038: v4
+    400040: v5
+    400042: v6
+    400044: v7
+    400046: v8
+    400048: v9
+    400050: villager
+    400052: wall
+    400054: well
+    2100000: unnamed
+    2300000: gate_1
+    2300002: gate_2
+    2300004: house
+    2300006: house_001
+    2300008: house_002
+    2300010: house_003
+    2300012: house_004
+    2300014: house_005
+    2300016: house_006
+    2300018: ogre
+    2300020: tower_1
+    2300022: tower_2
+    2300024: v1
+    2300026: v10
+    2300028: v11
+    2300030: v12
+    2300032: v2
+    2300034: v3
+    2300036: v4
+    2300038: v5
+    2300040: v6
+    2300042: v7
+    2300044: v8
+    2300046: v9
+    2300048: villager
+    2300050: wall
+    2300052: well
+    3300000: gate_1
+    3300002: gate_2
+    3300004: house
+    3300006: house_001
+    3300008: house_002
+    3300010: house_003
+    3300012: house_004
+    3300014: house_005
+    3300016: house_006
+    3300018: ogre
+    3300020: tower_1
+    3300022: tower_2
+    3300024: v1
+    3300026: v10
+    3300028: v11
+    3300030: v12
+    3300032: v2
+    3300034: v3
+    3300036: v4
+    3300038: v5
+    3300040: v6
+    3300042: v7
+    3300044: v8
+    3300046: v9
+    3300048: villager
+    3300050: wall
+    3300052: well
+    4300000: gate_1
+    4300002: tower_2
+    4300004: tower_1
+    4300006: well
+    4300008: house
+    4300010: v1
+    4300012: house_001
+    4300014: house_002
+    4300016: house_005
+    4300018: house_004
+    4300020: house_003
+    4300022: house_006
+    4300024: v2
+    4300026: v4
+    4300028: v3
+    4300030: v8
+    4300032: v7
+    4300034: v6
+    4300036: v5
+    4300038: v12
+    4300040: v11
+    4300042: v10
+    4300044: v9
+    4300046: wall
+    4300048: gate_2
+    4300050: villager
+    4300052: ogre
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
